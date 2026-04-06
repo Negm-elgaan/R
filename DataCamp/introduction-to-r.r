@@ -76,3 +76,6 @@ class(my_character)
 
 # Check class of my_logical
 class(my_logical)
+
+# Define the variable vegas
+vegas <- "Go!"
